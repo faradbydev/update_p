@@ -1,18 +1,1 @@
-{
-  "protocol": "socks",
-  "settings": {
-    "servers": [
-      {
-        "address": "res-unlimited-9eb3525e.plainproxies.com",
-        "port": 1080,
-        "users": [
-          {
-            "user": "LoXFcawWhy-country-us",
-            "pass": "54yILtfzG6TpWPj"
-          }
-        ]
-      }
-    ]
-  },
-  "tag": "Plain Proxies"
-}
+
